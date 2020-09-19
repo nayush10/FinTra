@@ -8,7 +8,6 @@ import './widgets/accounts_type.dart';
 import './widgets/statistics.dart';
 
 void main() => runApp(MyApp());
-void fan() => asd();
 
 class MyApp extends StatelessWidget {
   @override
