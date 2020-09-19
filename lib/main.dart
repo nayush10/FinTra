@@ -8,7 +8,7 @@ import './widgets/accounts_type.dart';
 import './widgets/statistics.dart';
 
 void main() => runApp(MyApp());
-asdsdggg
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
